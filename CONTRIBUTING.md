@@ -6,6 +6,8 @@ At the same time, reading the contributing guidelines will give you a better ide
 
 ## Table of Contents
 
+
+
 A high level overview of our contributing guidelines.
 
 - [Effective issue reporting in Kibana](#effective-issue-reporting-in-kibana)

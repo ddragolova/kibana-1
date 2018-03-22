@@ -1,5 +1,7 @@
 # Frequently asked questions
 
+**Q:** I want to learn Eclipse
+
 **Q:** I'm getting `bin/node/bin/node: not found` but I can see the node binary in the package?
 **A:** Kibana 4 packages are architecture specific. Ensure you are using the correct package for your architecture.
 
